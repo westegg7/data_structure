@@ -1,0 +1,23 @@
+{
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/Thumbs.db": true,
+		"**/*.dSYM":true
+	},
+	"C_Cpp.errorSquiggles": "Enabled",
+	"C_Cpp.dimInactiveRegions": false,
+	"files.associations": {
+		"stdio.h": "c",
+		"iterator": "c",
+		"ratio": "c",
+		"stdlib.h": "c",
+		"stdbool.h": "c",
+		"simplelist0.h": "c",
+		"stack.h": "c",
+		"assert.h": "c"
+	},
+}
