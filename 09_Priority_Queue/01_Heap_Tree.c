@@ -41,7 +41,6 @@ element delete_max_heap(HeapType *h) {
     item = h->heap[1];
     temp = h->heap[(h->heap_size)--];
 
-    h->heap[1] = temp;
     parent = 1;
     child = 2;
 
